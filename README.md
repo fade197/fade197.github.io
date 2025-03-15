@@ -1,10 +1,10 @@
 # fade197.github.io
 Shared, tech blog
 title: 一个简约扁平化的Hexo静态主题博客-Quiet
-comments: false
+comments: true
 categories: 项目案例
-aubot: Cange-Q
-aubot_link: 'https://github.com/79E/hexo-theme-quiet'
+aubot: fade197
+aubot_link: '[https://github.com/79E/hexo-theme-quiet](https://github.com/fade197)'
 tags:
   - Hexo
   - Quiet
